@@ -1,7 +1,7 @@
 {
 "expense":[
 {
-   "expenseId":"1",
+   "expenseId":1,
    "expenseName":"salaries",
    "budgetCenter":"102192",
    "category":"Personnel",
@@ -30,7 +30,7 @@
    ]
 },
 {
-   "expenseId":"2",
+   "expenseId":2,
    "expenseName":"salaries",
    "budgetCenter":"672145",
    "category":"Personnel",
