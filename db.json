@@ -1,0 +1,65 @@
+{
+"expense":[
+{
+   "id":1,
+   "expenseId":1,
+   "expenseName":"salaries",
+   "budgetCenter":"102192",
+   "category":"Personnel",
+   "subService":"HR",
+   "uncommittedType":"BAC",
+   "probability":"1",
+   "yearType":"CURRENT",
+   "expected":"121323",
+   "actual":"33111",
+   "notes":"invoice #2123",
+   "Details": [
+      {
+         "id":1,
+         "month":"9",
+         "expected":"200",
+         "actual":"220",
+         "notes":"part of invoice#abc"
+      },
+      {
+         "id":2,
+         "month":"10",
+         "expected":"200",
+         "actual":"220",
+         "notes":"part of invoice#abc"
+      }
+   ]
+},
+{
+   "id":2,
+   "expenseId":2,
+   "expenseName":"salaries",
+   "budgetCenter":"672145",
+   "category":"Personnel",
+   "subService":"HR",
+   "uncommittedType":"BAC",
+   "probability":"1",
+   "yearType":"CURRENT",
+   "expected":"99274",
+   "actual":"300293",
+   "notes":"invoice #3344",
+   "Details": [
+      {
+         "id":1,
+         "month":"4",
+         "expected":"300",
+         "actual":"320",
+         "notes":"part of invoice#abc"
+      },
+      {
+         "id":2,
+         "month":"5",
+         "expected":"500",
+         "actual":"520",
+         "notes":"part of invoice#abc"
+      }
+   ]
+}
+]
+}
+
